@@ -14,3 +14,9 @@ racket -l drracket -l racket-base16
 
 This loads DrRacket normally and then runs racket-base16. This is required
 because DrRacket loads tools before it registers initial color schemes.
+
+### License
+
+Licensed under the Apache License, Version 2.0,
+([LICENSE-APACHE](LICENSE-APACHE) or
+<http://www.apache.org/licenses/LICENSE-2.0>).
